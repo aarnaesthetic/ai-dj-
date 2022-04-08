@@ -1,0 +1,48 @@
+.heading{
+font-size: 19px;
+font-family: cursive;
+    color:black ;
+    width: 100%;
+    margin:0px;
+}
+
+.note{
+    font-family: fantasy;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_img,.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed,#volume{
+    font-size: 19px;
+    margin:15px;
+    font-family: monospace;
+}
+
+.div_volume{
+    float: right;
+}
+
+.play_button{
+font-size: 25px;
+width: 200px;
+
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+
+
